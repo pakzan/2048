@@ -1,0 +1,64 @@
+I:\visual basic\2048\2048\bin\Debug\2048.exe
+I:\visual basic\2048\2048\bin\Debug\2048.pdb
+I:\visual basic\2048\2048\bin\Debug\2048.xml
+I:\visual basic\2048\2048\obj\Debug\ResolveAssemblyReference.cache
+I:\visual basic\2048\2048\obj\Debug\WindowsApplication1.Form1.resources
+I:\visual basic\2048\2048\obj\Debug\WindowsApplication1.Resources.resources
+I:\visual basic\2048\2048\obj\Debug\2048.vbproj.GenerateResource.Cache
+I:\visual basic\2048\2048\obj\Debug\2048.exe
+I:\visual basic\2048\2048\obj\Debug\2048.xml
+I:\visual basic\2048\2048\obj\Debug\2048.pdb
+E:\visual basic\2048\2048\obj\Debug\2048.exe
+E:\visual basic\2048\2048\obj\Debug\2048.xml
+E:\visual basic\2048\2048\obj\Debug\2048.pdb
+E:\visual basic\2048\2048\bin\Debug\2048.exe
+E:\visual basic\2048\2048\bin\Debug\2048.pdb
+E:\visual basic\2048\2048\bin\Debug\2048.xml
+E:\visual basic\2048\2048\obj\Debug\ResolveAssemblyReference.cache
+E:\visual basic\2048\2048\obj\Debug\WindowsApplication1.Form1.resources
+E:\visual basic\2048\2048\obj\Debug\WindowsApplication1.Resources.resources
+E:\visual basic\2048\2048\obj\Debug\2048.vbproj.GenerateResource.Cache
+G:\visual basic\2048\2048\obj\Debug\2048.exe
+G:\visual basic\2048\2048\obj\Debug\2048.xml
+G:\visual basic\2048\2048\obj\Debug\2048.pdb
+G:\visual basic\2048\2048\bin\Debug\2048.exe
+G:\visual basic\2048\2048\bin\Debug\2048.pdb
+G:\visual basic\2048\2048\bin\Debug\2048.xml
+G:\visual basic\2048\2048\obj\Debug\ResolveAssemblyReference.cache
+G:\visual basic\2048\2048\obj\Debug\WindowsApplication1.Form1.resources
+G:\visual basic\2048\2048\obj\Debug\WindowsApplication1.Resources.resources
+G:\visual basic\2048\2048\obj\Debug\2048.vbproj.GenerateResource.Cache
+I:\visual basic\2048\2048\bin\Debug\2048.exe.manifest
+I:\visual basic\2048\2048\bin\Debug\2048.application
+I:\visual basic\2048\2048\obj\Debug\2048.exe.manifest
+I:\visual basic\2048\2048\obj\Debug\2048.application
+C:\Users\Dell\Desktop\2048\2048\bin\Debug\2048.exe.config
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\2048.exe
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\2048.xml
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\2048.pdb
+C:\Users\Dell\Desktop\2048\2048\bin\Debug\2048.exe.manifest
+C:\Users\Dell\Desktop\2048\2048\bin\Debug\2048.application
+C:\Users\Dell\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\Dell\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\Dell\Desktop\2048\2048\bin\Debug\2048.xml
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\2048.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\2048.vbproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\2048.exe.manifest
+C:\Users\Dell\Desktop\2048\2048\obj\Debug\2048.application
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.exe.manifest
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.application
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.xml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.vbproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.exe.manifest
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.application

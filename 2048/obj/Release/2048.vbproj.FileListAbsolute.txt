@@ -1,0 +1,14 @@
+I:\visual basic\2048\2048\bin\Release\2048.exe.manifest
+I:\visual basic\2048\2048\bin\Release\2048.application
+I:\visual basic\2048\2048\bin\Release\2048.exe
+I:\visual basic\2048\2048\bin\Release\2048.pdb
+I:\visual basic\2048\2048\bin\Release\2048.xml
+I:\visual basic\2048\2048\obj\Release\ResolveAssemblyReference.cache
+I:\visual basic\2048\2048\obj\Release\WindowsApplication1.Form1.resources
+I:\visual basic\2048\2048\obj\Release\WindowsApplication1.Resources.resources
+I:\visual basic\2048\2048\obj\Release\2048.vbproj.GenerateResource.Cache
+I:\visual basic\2048\2048\obj\Release\2048.exe.manifest
+I:\visual basic\2048\2048\obj\Release\2048.application
+I:\visual basic\2048\2048\obj\Release\2048.exe
+I:\visual basic\2048\2048\obj\Release\2048.xml
+I:\visual basic\2048\2048\obj\Release\2048.pdb
